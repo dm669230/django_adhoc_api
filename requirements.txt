@@ -1,0 +1,9 @@
+Django              
+django-rest-swagger 
+djangorestframework
+Jinja2             
+openapi-codec      
+pip                
+psycopg2           
+python-decouple 
+requests           
